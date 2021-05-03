@@ -16,3 +16,12 @@ D:\Study\EHI.Contacts\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.AssemblyInf
 D:\Study\EHI.Contacts\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.dll
 D:\Study\EHI.Contacts\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.pdb
 D:\Study\EHI.Contacts\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.csproj.CoreCompileInputs.cache
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\bin\Debug\netstandard2.1\EHI.Domain.deps.json
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\bin\Debug\netstandard2.1\EHI.Domain.dll
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\bin\Debug\netstandard2.1\EHI.Domain.pdb
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.csprojAssemblyReference.cache
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.AssemblyInfoInputs.cache
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.AssemblyInfo.cs
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.csproj.CoreCompileInputs.cache
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.dll
+D:\Study\DDD\SampleCustomerProject\EHI.Domain\obj\Debug\netstandard2.1\EHI.Domain.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\EHI.Contacts\\EHI.Domain\\EHI.Domain.csproj": {}
+    "D:\\Study\\DDD\\SampleCustomerProject\\EHI.Domain\\EHI.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Study\\EHI.Contacts\\EHI.Domain\\EHI.Domain.csproj": {
+    "D:\\Study\\DDD\\SampleCustomerProject\\EHI.Domain\\EHI.Domain.csproj": {
       "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\EHI.Contacts\\EHI.Domain\\EHI.Domain.csproj",
+        "projectUniqueName": "D:\\Study\\DDD\\SampleCustomerProject\\EHI.Domain\\EHI.Domain.csproj",
         "projectName": "EHI.Domain",
-        "projectPath": "D:\\Study\\EHI.Contacts\\EHI.Domain\\EHI.Domain.csproj",
+        "projectPath": "D:\\Study\\DDD\\SampleCustomerProject\\EHI.Domain\\EHI.Domain.csproj",
         "packagesPath": "D:\\Users\\dshinde\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\EHI.Contacts\\EHI.Domain\\obj\\",
+        "outputPath": "D:\\Study\\DDD\\SampleCustomerProject\\EHI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

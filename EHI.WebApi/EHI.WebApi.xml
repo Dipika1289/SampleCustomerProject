@@ -32,7 +32,7 @@
             <response code="400">Returned if the model couldn't be parsed or the customer couldn't be saved</response>
             <response code="422">Returned when the validation failed</response>
         </member>
-        <member name="M:EHI.WebApi.Controllers.v1.CustomerController.Edit(System.Int32,EHI.Application.Features.Products.Commands.UpdateProduct.UpdateProductCommand)">
+        <member name="M:EHI.WebApi.Controllers.v1.CustomerController.Edit(System.Int32,EHI.Application.Features.Products.Commands.UpdateProduct.UpdateContactCommand)">
             <summary>
             Action to create a new customer in the database.
             </summary>

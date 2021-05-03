@@ -6,7 +6,7 @@ using AutoMapper;
 using EHI.Application.Features.Products.Commands.CreateCustomer;
 using EHI.Application.Features.Products.Commands.DeleteProductById;
 using EHI.Application.Features.Products.Commands.UpdateProduct;
-using EHI.Application.Features.Products.Queries.GetAllProducts;
+using EHI.Application.Features.Products.Queries.GetCustomersQuery;
 using EHI.Domain.Entities;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -90,7 +90,7 @@ namespace EHI.WebApi.Controllers.v1
 		{
 			try
 			{
-				return await _mediator.Send(new DeleteProductByIdCommand { Id = id });
+				return await _mediator.Send(new DeleteContactByIdCommand { Id = id });
 			}
 			catch (Exception ex)
 			{
@@ -112,7 +112,7 @@ namespace EHI.WebApi.Controllers.v1
 		[ProducesResponseType(StatusCodes.Status400BadRequest)]
 		[ProducesResponseType(StatusCodes.Status422UnprocessableEntity)]
 		[HttpPut("{id}")]
-		public async Task<ActionResult<Customer>> Edit(int id, UpdateProductCommand command)
+		public async Task<ActionResult<Customer>> Edit(int id, UpdateContactCommand command)
 		{
 			command.Id = id;
 			return await _mediator.Send(command);

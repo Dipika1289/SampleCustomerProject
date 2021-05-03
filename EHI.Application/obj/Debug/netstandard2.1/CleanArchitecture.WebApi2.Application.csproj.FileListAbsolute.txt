@@ -1,0 +1,12 @@
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.deps.json
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.csprojAssemblyReference.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.AssemblyInfoInputs.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.AssemblyInfo.cs
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.csproj.CoreCompileInputs.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.csproj.CopyComplete
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Application\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Application.pdb

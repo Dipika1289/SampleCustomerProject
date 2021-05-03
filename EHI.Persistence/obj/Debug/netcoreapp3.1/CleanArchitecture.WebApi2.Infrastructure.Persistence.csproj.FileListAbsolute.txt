@@ -1,0 +1,17 @@
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.deps.json
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Application.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Domain.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Application.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Domain.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.AssemblyInfo.cs
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.csproj.CopyComplete
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.runtimeconfig.json
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.runtimeconfig.dev.json
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.genruntimeconfig.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\CleanArchitecture.WebApi2.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
