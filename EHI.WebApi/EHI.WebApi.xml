@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EHI.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:EHI.WebApi.Controllers.v1.CustomerController.Customers">
+            <summary>
+            Action to see all existing customers.
+            </summary>
+            <returns>Returns a list of all customers</returns>
+            <response code="200">Returned if the customers were loaded</response>
+            <response code="400">Returned if the customers couldn't be loaded</response>
+        </member>
+        <member name="M:EHI.WebApi.Controllers.v1.CustomerController.Customer(EHI.Application.Features.Products.Commands.CreateCustomer.CreateCustomerCommand)">
+            <summary>
+            Action to create a new customer in the database.
+            </summary>
+            <param name="createCustomerModel">Model to create a new customer</param>
+            <returns>Returns the created customer</returns>
+            <response code="200">Returned if the customer was created</response>
+            <response code="400">Returned if the model couldn't be parsed or the customer couldn't be saved</response>
+            <response code="422">Returned when the validation failed</response>
+        </member>
+        <member name="M:EHI.WebApi.Controllers.v1.CustomerController.Delete(System.Int32)">
+            <summary>
+            Action to create a new customer in the database.
+            </summary>
+            <param name="id"></param>
+            <returns>Returns the created customer</returns>
+            <response code="200">Returned if the customer was created</response>
+            <response code="400">Returned if the model couldn't be parsed or the customer couldn't be saved</response>
+            <response code="422">Returned when the validation failed</response>
+        </member>
+        <member name="M:EHI.WebApi.Controllers.v1.CustomerController.Edit(System.Int32,EHI.Application.Features.Products.Commands.UpdateProduct.UpdateProductCommand)">
+            <summary>
+            Action to create a new customer in the database.
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns>Returns the created customer</returns>
+            <response code="200">Returned if the customer was created</response>
+            <response code="400">Returned if the model couldn't be parsed or the customer couldn't be saved</response>
+            <response code="422">Returned when the validation failed</response>
+        </member>
+    </members>
+</doc>
