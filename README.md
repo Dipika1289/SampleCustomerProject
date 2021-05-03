@@ -1,1 +1,1 @@
-# SampleCustomerProject
+# SampleContactProject
