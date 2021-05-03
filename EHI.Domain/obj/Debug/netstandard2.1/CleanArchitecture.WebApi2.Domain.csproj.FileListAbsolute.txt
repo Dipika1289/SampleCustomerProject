@@ -1,0 +1,8 @@
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.deps.json
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\bin\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.AssemblyInfoInputs.cache
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.AssemblyInfo.cs
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.dll
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.pdb
+D:\Study\CleanArchitecture.WebApi2\CleanArchitecture.WebApi2.Domain\obj\Debug\netstandard2.1\CleanArchitecture.WebApi2.Domain.csproj.CoreCompileInputs.cache

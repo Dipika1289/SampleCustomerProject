@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Application\\CleanArchitecture.WebApi2.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Application\\CleanArchitecture.WebApi2.Application.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Application\\CleanArchitecture.WebApi2.Application.csproj",
+        "projectName": "CleanArchitecture.WebApi2.Application",
+        "projectPath": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Application\\CleanArchitecture.WebApi2.Application.csproj",
+        "packagesPath": "D:\\Users\\dshinde\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\dshinde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ezsdev/_packaging/EZSCore/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Domain\\CleanArchitecture.WebApi2.Domain.csproj": {
+                "projectPath": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Domain\\CleanArchitecture.WebApi2.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Domain\\CleanArchitecture.WebApi2.Domain.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Domain\\CleanArchitecture.WebApi2.Domain.csproj",
+        "projectName": "CleanArchitecture.WebApi2.Domain",
+        "projectPath": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Domain\\CleanArchitecture.WebApi2.Domain.csproj",
+        "packagesPath": "D:\\Users\\dshinde\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\CleanArchitecture.WebApi2\\CleanArchitecture.WebApi2.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\dshinde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ezsdev/_packaging/EZSCore/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
